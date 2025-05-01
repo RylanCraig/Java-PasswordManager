@@ -28,3 +28,8 @@ A simple command-line 📋 Password Manager written in Java. This project allows
 
 > Compile and run using your terminal or preferred Java IDE:
 
+## 👨‍💻 Author
+
+**Rylan Craig**  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rylan-craig)
